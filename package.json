@@ -1,0 +1,23 @@
+{
+  "name": "codelabs-teachablemachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo PWA Pilipinas Codelabs: Teachable Machine + Progressive Web Apps && http-server ./src -a 0.0.0.0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwa-pilipinas/codelabs-teachablemachine.git"
+  },
+  "author": "Andresito de Guzman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwa-pilipinas/codelabs-teachablemachine/issues"
+  },
+  "homepage": "https://github.com/pwa-pilipinas/codelabs-teachablemachine#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
